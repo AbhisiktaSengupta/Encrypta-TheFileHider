@@ -38,13 +38,18 @@
 
 - Home Screen
 
-    ![Solid](https://cldup.com/dTxpPi9lDf.thumb.png)
+<img width="960" alt="homescreen" src="https://github.com/AbhisiktaSengupta/Encrypta-TheFileHider/assets/98765961/1a802e53-459d-4241-8854-db1934855979">
+
 - File Hidding Menu
-    
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
+  
+<img width="960" alt="hidden" src="https://github.com/AbhisiktaSengupta/Encrypta-TheFileHider/assets/98765961/17bda82d-4715-4534-9d3c-cb0af9f09ff3">
+
 - Authentication Mail
 
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
-- MySQL Database 
+<img width="715" alt="authentication" src="https://github.com/AbhisiktaSengupta/Encrypta-TheFileHider/assets/98765961/00a50b22-7989-468d-b0e5-a83db8b3ebcd">
+
+- MySQL Database
+
+<img width="960" alt="sqlpic" src="https://github.com/AbhisiktaSengupta/Encrypta-TheFileHider/assets/98765961/0d4f0676-2bb1-4e4a-8315-407be1775a05">
+
     
-    [![N|Solid](https://cldup.com/dTxpPi9lDf.thumb.png)](https://nodesource.com/products/nsolid)
