@@ -1,6 +1,4 @@
 # Encrypta | The File Hider
-### _A File Hider App_
----
 ### Overview
 ---
 
